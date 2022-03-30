@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Noah Blumenstein
+
+About me
+- Full stack software engineer
+- Located in New York City
+- Graduate of the University of Michigan and Flatiron School
+- Excited to continue to learn and level up!
 
 <!--
 **roadtomoab/roadtomoab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
