@@ -6,6 +6,10 @@ About me
 - Graduate of the University of Michigan and Flatiron School
 - Excited to continue to learn and level up!
 
+My core competencies lie in JavaScript, React, Ruby, Ruby on Rails, MySQL and PostgreSQL.  However, I also work with the following technologies: Next.JS, NextAuth, Firebase, Node.JS, Express.JS and MongoDB.
+
+I'm open to both career opportunities and open source projects.  If you think I could be of help, or just want to connect, please feel free to reach out!
+
 <!--
 **roadtomoab/roadtomoab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
