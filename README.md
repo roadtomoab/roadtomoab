@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Noah Blumenstein
 
 About me
-- Full stack software engineer
+- Software Engineer at Infosys
 - Located in New York City
 - Graduate of the University of Michigan and Flatiron School
 - Excited to continue to learn and level up!
 
-My core competencies lie in JavaScript, React, Ruby, Ruby on Rails, MySQL and PostgreSQL.  However, I also work with the following technologies: Next.JS, NextAuth, Firebase, Node.JS, Express.JS and MongoDB.
+My core competencies lie in JavaScript, Python, Java, Selenium automated testing, React, Ruby on Rails, and SQL. Currently, I work as a software engineer in the financial services division at Infosys.
 
 I'm open to both career opportunities and open source projects.  If you think I could be of help, or just want to connect, please feel free to reach out!
 
